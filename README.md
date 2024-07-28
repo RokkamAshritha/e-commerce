@@ -1,8 +1,8 @@
 # Anon - An eCommerce Website
 
-![GitHub repo size](https://img.shields.io/github/repo-size/RokkamAshritha/e-commerce)
-![GitHub stars](https://img.shields.io/github/stars/RokkamAshritha/e-commerce?style=social)
-![GitHub forks](https://img.shields.io/github/forks/RokkamAshritha/e-commerce?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/codewithsade/anon-ecommerce-website)
+![GitHub stars](https://img.shields.io/github/stars/codewithsade/anon-ecommerce-website?style=social)
+![GitHub forks](https://img.shields.io/github/forks/codewithsade/anon-ecommerce-website?style=social)
 
 
 Anon is a fully responsive ecommerce website, maximum compatiblities in all mobile devices, built using HTML, CSS, and JavaScript.
