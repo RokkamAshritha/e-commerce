@@ -1,7 +1,7 @@
 # Anon - An eCommerce Website
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsade/anon-ecommerce-website)
-![GitHub stars](https://img.shields.io/github/stars/codewithsade/anon-ecommerce-website?style=social)
+![GitHub stars](https://img.shields.io/github/stars/codewithsadee/anon-ecommerce-website?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/codewithsade/anon-ecommerce-website?style=social)
 
 
